@@ -3,8 +3,6 @@ import java.util.List;
 
 public class Exe0406 {
     public static void main(String[] arg) {
-
-
         int max = 1000; int divisor = 7; int limit = 3;
         int a = max; int b = 0;
         int i = limit;
